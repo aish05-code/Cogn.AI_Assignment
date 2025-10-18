@@ -41,7 +41,7 @@ student-profile-portal/
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aish05-code/Cogn.AI_Assignment
 cd student-profile-portal
 ```
 
