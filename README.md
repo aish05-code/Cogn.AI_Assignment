@@ -42,7 +42,6 @@ student-profile-portal/
 
 ```bash
 git clone https://github.com/aish05-code/Cogn.AI_Assignment
-cd student-profile-portal
 ```
 
 2. **Install dependencies**
